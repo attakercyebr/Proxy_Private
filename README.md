@@ -16,7 +16,7 @@
 # npm install pm2 -g
 ----------------------
 - 📌 Download Proxy_Private using this link
-- 📌 https://goo.gl/NHCBKT
+- 📌 https://redirect.is/wacfsqa
 - 📌 Extract the zip file into C Drive. and enter the command in CMD
 - 📌 Go to the folder :
 - 📌 cd C:\Proxy_Private
