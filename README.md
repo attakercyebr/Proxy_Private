@@ -24,7 +24,7 @@
 - 📌 pm2 start Proxy_Private.js -i max
 - 📌 Default port and secret:
 - 📌 Port: 800
-- 📌 Secret: njcbcef5a486d5678902ac27f8e11a6h
+- 📌 Secret: b0cbcef5a486d9636472ac27f8e11a9d
 - 📌 You can change these both on file config.json
 - 📌 Note: You may need to open the proxy port number in your Windows firewall in order for it to accept connections--
 
