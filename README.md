@@ -21,7 +21,7 @@
 - 📌 Go to the folder :
 - 📌 cd C:\Proxy_Private
 - 📌 Start the proxy server from "Command Prompt" by the following command:
-- 📌 pm2 start mtproxy.js -i max
+- 📌 pm2 start Proxy_Private.js -i max
 - 📌 Default port and secret:
 - 📌 Port: 800
 - 📌 Secret: njcbcef5a486d5678902ac27f8e11a6h
