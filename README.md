@@ -2,6 +2,32 @@
 
 # Proxy_Private
 
+##### Usage
+----------------------
+- 📌 Hi Guys I hope you are fine
+- 📌 in this tutorial, I will teach you how to install mtproxy on a windows server
+- 📌 I decide to select windows server 2016 and it's not important 
+- 📌 you can select any windows server 2009, 2012, 2016, 2019
+- 📌 enjoy!
+- 📌 First Step Install NodeJS
+- 📌 https://nodejs.org/en/download/
+- 📌 After installation is complete, enter "Command Prompt" and install PM2 by the following command :
+
+# npm install pm2 -g
+----------------------
+- 📌 Download Proxy_Private using this link
+- 📌 https://goo.gl/NHCBKT
+- 📌 Extract the zip file into C Drive. and enter the command in CMD
+- 📌 Go to the folder :
+- 📌 cd C:\Proxy_Private
+- 📌 Start the proxy server from "Command Prompt" by the following command:
+- 📌 pm2 start mtproxy.js -i max
+- 📌 Default port and secret:
+- 📌 Port: 800
+- 📌 Secret: njcbcef5a486d5678902ac27f8e11a6h
+- 📌 You can change these both on file config.json
+- 📌 Note: You may need to open the proxy port number in your Windows firewall in order for it to accept connections--
+
 
 ##### See Training 
 
